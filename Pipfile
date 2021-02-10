@@ -20,6 +20,7 @@ testfixtures = ">=6.15.0"
 zeppos-root = ">=0.0.9"
 cachetools = ">=4.1.1"
 zeppos-core = ">=1.0.5"
+zeppos-git = ">=0.0.3"
 
 [requires]
 python_version = "3.7"
